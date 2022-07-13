@@ -1,0 +1,5 @@
+npx @layer0/cli@latest init \
+  --name maliek101.blogspot.com \
+  --environment production \
+  --origin maliek101.blogspot.com \
+  --deploy
